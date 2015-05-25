@@ -1,9 +1,12 @@
-# HackMyChurch-BoostMySpirit
+# Boost My Spirit (HackMyChurch)
 Projet « Boost My Spirit »
 
+---
 
-Fonctionnement
+## Dispositif
 
-Électronique
+## Fonctionnement
 
-Photos
+## Électronique
+
+## Photos

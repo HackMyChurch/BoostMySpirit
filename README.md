@@ -22,9 +22,13 @@ Le dispositif prototype est constitué de :
 
 ## Électronique
 
-![Schema Arduino](/Arduino/Schema.png?raw=true "Schema Arduino")
+![Schema Arduino](/Arduino/Schema Arduino.png?raw=true "Schema Arduino")
 
-![Schema Arduino Zoom](/Arduino/Schema-Zoom.png?raw=true "Schema Arduino Zoom")
+![Schema Arduino](/Arduino/Schema Arduino - Carte.png?raw=true "Schema Arduino")
+
+![Schema Arduino](/Arduino/Schema Arduino - LED et Boutons.png?raw=true "Schema Arduino")
+
+![Schema Arduino](/Arduino/Schema Arduino - Boutons.png?raw=true "Schema Arduino")
 
 ## Photos
 

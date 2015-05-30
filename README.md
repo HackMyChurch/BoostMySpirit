@@ -1,6 +1,14 @@
 # Boost My Spirit (HackMyChurch)
 Projet « Boost My Spirit »
 
+> Remettre en ordre ses priorités : penser à prier au quotidien. Un outil qui rappelle le fondement d’une vie chrétienne : la prière et la communion.
+
+> Un assistant spirituel, compagnon de poche, anonyme, réglé par soi-même. Avec le conseil qu’on a envie de recevoir, rédigé par et pour soi-même.
+
+> Un outil entièrement paramétrable pour mettre dans ses journées la prière quotidienne et progresser dans sa relation personnelle à Dieu.
+
+Extrait du site associé : [http://boostmyspirit.com/](http://boostmyspirit.com/)
+
 ---
 
 ## Dispositif
@@ -29,18 +37,4 @@ Le dispositif prototype est constitué de :
 ![Schema Arduino](/Arduino/Schema Arduino - LED et Boutons.png?raw=true "Schema Arduino")
 
 ![Schema Arduino](/Arduino/Schema Arduino - Boutons.png?raw=true "Schema Arduino")
-
-## Photos
-
-![Light My Prayer](/Photos/LightMyPrayer1.jpg?raw=true)
-
-![Light My Prayer](/Photos/LightMyPrayer2.jpg?raw=true)
-
-La signalétique d'utilisation a été placée par dessus la structure en impression vinyle.
-
-![Light My Prayer](/Photos/LightMyPrayer3.jpg?raw=true)
-
-![Light My Prayer](/Photos/LightMyPrayer4.jpg?raw=true)
-
-![Light My Prayer](/Photos/LightMyPrayer5.jpg?raw=true)
 
